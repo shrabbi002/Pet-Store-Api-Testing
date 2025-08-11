@@ -1,4 +1,4 @@
-Add comprehensive pytest suite for Swagger Petstore Pet API endpoints
+Add comprehensive pytest suite for Swagger Petstore Pet API endpoints: https://petstore.swagger.io
 
 - Implemented end-to-end tests covering CRUD operations on /pet endpoint:
   - Created pets with randomized data using pytest fixtures for uniqueness
